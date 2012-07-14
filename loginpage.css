@@ -1,0 +1,45 @@
+body{
+	margin:0px; 
+	padding:0px; 
+	background:black;
+}
+font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('http://carruselinformativo.com/css/fonts/BebasNeue-webfont.eot');
+    src: url('http://carruselinformativo.com/css/fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://carruselinformativo.com/css/fonts/BebasNeue-webfont.woff') format('woff'),
+         url('http://carruselinformativo.com/css/fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('http://carruselinformativo.com/css/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#background {
+    width:100%;
+    height:100%;
+    margin:0 auto;
+    position:relative;
+    background:black;
+}
+
+div.caption {
+	
+	margin-top: -75px;
+	margin-left:250px;
+	width: 900px;
+	text-align: center;
+	left: 50%;
+	padding: 5px 10px;
+	background: black;
+	color: white;
+	font-family: sans-serif;
+	border-radius: 10px;
+	display: none;
+	 font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+     font-size: 96px;
+    padding: 0;
+    line-height: 80px; 
+}
+
+
+
